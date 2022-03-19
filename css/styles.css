@@ -1,0 +1,46 @@
+.whole-page {
+  background-color: lightgrey
+}
+
+.portfolio-header {
+  text-align: center;
+  text-decoration: underline 3px;
+  font-family: 'Gabriola';
+}
+
+.top-headers {
+  text-align: center;
+  font-family: 'Ink Free'
+}
+
+.top-header-colors {
+  background-color: #772676;
+}
+
+.first-sentence {
+  font-family: 'Comic Sans MS';
+  text-align: center;
+}
+
+img {
+  border: 3px solid black ;
+  border-radius: 15px;  
+  width: 245px;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.headers {
+  border: 3px solid black;
+  border-style: inset;
+  border-bottom-color: grey;
+  border-right-color: grey;
+  background-color: #772676;
+  font-family: 'Ink Free'
+}
+
+.body-text {
+  font-family: 'Comic Sans MS';
+}
